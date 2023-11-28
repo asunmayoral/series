@@ -11,7 +11,8 @@ library(nnfor); library(thief);library(tidyverse);library(Metrics)
 datos<-list(x=x)
 
 ## Source file of functions
-source("f_menu.r")
+f_menu = "https://raw.githubusercontent.com/asunmayoral/series/main/f_menu.r"
+source(f_menu)
 
 ## The length of the test is given by the number of series
 ensayo<-1:length(datos)
