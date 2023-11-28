@@ -1,7 +1,7 @@
 In your computer, follow these steps:
 
 1. Open RStudio
-2. Create en R script on your working directory, and copy the code in this page
+2. Create en R script on your working directory and set it down. Copy all the code in this page
 
 ```
 # Set your working directory
