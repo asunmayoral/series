@@ -2,7 +2,7 @@ In your computer, follow these steps:
 1. Open RStudio
 2. Create en R script and copy the following sintax
    
-3. Verify the installation of these packages
+3. Verify the installation of these packages and execute loading
    
 ```
 library(Metrics); library(forecast); library(forecTheta);library(tsfgrnn);library(tsintermittent); 
